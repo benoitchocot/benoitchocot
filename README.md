@@ -9,7 +9,6 @@ Je suis un passionné de développement avec une curiosité insatiable pour les 
 - **Outils :** Git, Docker, VS Code, Slack...
 
 ## Projets récents
-- 🌐 [Projet ZOO](https://github.com/benoitchocot/zoo) : Un projet passionnant où j'ai exploré la conception d'une application web pour un zoo virtuel.
 - 🚀 [CV](https://benoitchocot.github.io/cv) : Mon espace créatif pour présenter mes réalisations et mon parcours.
 
 ## En savoir plus
