@@ -12,8 +12,7 @@ Je suis un passionné de développement avec une curiosité insatiable pour les 
 - 🚀 [CV](https://benoitchocot.github.io/cv) : Mon espace créatif pour présenter mes réalisations et mon parcours.
 
 ## En savoir plus
-Je suis actuellement en formation Concepteur développeur d'applications au sein de l'AFPA de Beaumont. Je serai de retour sur le marché du travail à partir d'avril 2024 !
-
+Je suis actuellement en recherche d'emploi en tant que développeur web / d'applications. N'hésitez pas à prendre contact avec moi si un poste se libère dans votre entreprise !
 ### Contact
 - benoit.chocot@gmail.com
 - LinkedIn : https://www.linkedin.com/in/benoit-chocot
