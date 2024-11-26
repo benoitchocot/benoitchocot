@@ -15,6 +15,5 @@ Je suis un passionné de développement avec une curiosité insatiable pour les 
 Je suis actuellement en recherche d'emploi en tant que développeur web / d'applications. N'hésitez pas à prendre contact avec moi si un poste se libère dans votre entreprise !
 ### Contact
 - benoit.chocot@gmail.com
-- LinkedIn : https://www.linkedin.com/in/benoit-chocot
+- [LinkedIn](https://www.linkedin.com/in/benoit-chocot)
 
-/---
