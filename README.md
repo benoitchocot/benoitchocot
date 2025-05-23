@@ -8,9 +8,6 @@ Je suis un passionné de développement avec une curiosité insatiable pour les 
 - **Frameworks :** Angular, Ruby on Rails, Symfony, Bootstrap
 - **Outils :** Git, Docker, VS Code, Slack...
 
-## Projets récents
-- 🚀 [CV](https://chocot.be) : Mon espace créatif pour présenter mes réalisations et mon parcours.
-
 ## En savoir plus
 Je suis actuellement en recherche d'emploi en tant que développeur web / d'applications. N'hésitez pas à prendre contact avec moi si un poste se libère dans votre entreprise !
 ### Contact
