@@ -5,7 +5,7 @@ Je suis un passionné de développement avec une curiosité insatiable pour les 
 
 ### Mes compétences
 - **Langages :** JavaScript, Ruby, HTML, CSS, PHP
-- **Frameworks :** Angular, Ruby on Rails, Symfony, Bootstrap
+- **Frameworks :** ""React"", Angular, Ruby on Rails, Symfony, Bootstrap...
 - **Outils :** Git, Docker, VS Code, Slack...
 ## Projets récents
 - 🎫 [Ticketing](https://github.com/benoitchocot/ticketing) : Application Fullstack Rails pour la gestion de Tickets en entreprise
