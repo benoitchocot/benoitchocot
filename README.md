@@ -8,7 +8,7 @@ Je suis un passionné de développement avec une curiosité insatiable pour les 
 - **Frameworks :** React, Angular, Ruby on Rails, Symfony, Bootstrap...
 - **Outils :** Git, Docker, VS Code, Slack...
 ## Projets récents
-- 🍽️ [Bot Rust Python](https://github.com/benoitchocot/foodtrack) : Application Nuxt / Nest pour gérer ses repas de la semaine
+- 🍽️ [FoodTrack](https://github.com/benoitchocot/foodtrack) : Application Nuxt / Nest pour gérer ses repas de la semaine
 - 🎫 [Ticketing](https://github.com/benoitchocot/ticketing) : Application Fullstack Rails pour la gestion de Tickets en entreprise
 - 🏋️ [FitTrack](https://github.com/benoitchocot/FitTrack) : Application Node + Express / React pour un suivi de séances de musculation.
 - 🔐 [Site-Encryption](https://github.com/benoitchocot/site-encryption) : Application PHP / Symfony pour estimer le coût d'un projet.
