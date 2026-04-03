@@ -5,13 +5,12 @@ Je suis un passionné de développement avec une curiosité insatiable pour les 
 
 ### Mes compétences
 - **Langages :** JavaScript, Ruby, HTML, CSS, PHP
-- **Frameworks :** React, Angular, Ruby on Rails, Symfony, Bootstrap...
+- **Frameworks :** React, Angular, Ruby on Rails, Symfony, Laravel, Bootstrap, Vue,...
 - **Outils :** Git, Docker, VS Code, Slack...
 ## Projets récents
 - 🍽️ [FoodTrack](https://github.com/benoitchocot/foodtrack) : Application Nuxt / Nest pour gérer ses repas de la semaine
 - 🎫 [Ticketing](https://github.com/benoitchocot/ticketing) : Application Fullstack Rails pour la gestion de Tickets en entreprise
-- 🏋️ [FitTrack](https://github.com/benoitchocot/FitTrack) : Application Node + Express / React pour un suivi de séances de musculation.
-- 🔐 [Site-Encryption](https://github.com/benoitchocot/site-encryption) : Application PHP / Symfony pour estimer le coût d'un projet.
+- 🏋️ [FitTrack](https://github.com/benoitchocot/FitTrack-v2) : Application Node + Express / React pour un suivi de séances de musculation.
 - 🤖 [Déploiement Raspberry](https://github.com/benoitchocot/pi) : Repository complet pour déployer un serveur Raspberry, mais pas que ! 
 ## En savoir plus
 Je suis actuellement en recherche d'emploi en tant que développeur web / d'applications. N'hésitez pas à prendre contact avec moi si un poste se libère dans votre entreprise !
